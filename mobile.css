@@ -1,0 +1,9 @@
+@media (max-width: 60em) {
+
+.headerItem {
+    display: none;
+}
+.listItem {
+    display: none;
+}    
+}
